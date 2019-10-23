@@ -13,7 +13,7 @@ Introduction
 
 Dataset
 ---------------------
-[링크명](http://yann.lecun.com/exdb/mnist/)
+[MNIST Data Set](http://yann.lecun.com/exdb/mnist/)
 
 
 Dependency
