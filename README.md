@@ -10,6 +10,14 @@ Introduction
 - This is for users who want to learn basic code of the regression.
 
 
+
 Dataset
 ---------------------
-[링크명](http://www.example.com)
+[링크명](http://yann.lecun.com/exdb/mnist/)
+
+
+Dependency
+---------------------
+Python3 
+
+
